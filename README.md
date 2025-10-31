@@ -16,7 +16,7 @@ Moriarty Project is a powerful web based phone number investigation tool. It has
 Social Media Stuck Issue Fixed.
 
 ### Current Features
-- *Tries To Find The Owner Of The Given Phone Number.*
+- *Tries To Find The Owner Of The Given Phone Number.*+79159247828
 
 - *Tries To Find The Spam Risk Situation Of The Given Phone Number.*
 
@@ -39,7 +39,7 @@ Social Media Stuck Issue Fixed.
 
 ### Installation
 ````
-sudo apt install git -y
+sudoTries To Find The Owner Of The Given Phone Number. apt install git -y
 
 git clone https://github.com/AzizKpln/Moriarty-Project
 
